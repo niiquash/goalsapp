@@ -19,5 +19,9 @@
   "homepage": "https://github.com/niiquash/goalsapp#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express-async-handler": "^1.2.0"
   }
 }
